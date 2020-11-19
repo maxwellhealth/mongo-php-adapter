@@ -1,4 +1,4 @@
-# Mongo PHP Adapter
+# Maxwell's fork of Mongo PHP Adapter
 
 [![Build Status](https://travis-ci.org/alcaeus/mongo-php-adapter.svg?branch=master)](https://travis-ci.org/alcaeus/mongo-php-adapter)
 [![Code Coverage](https://scrutinizer-ci.com/g/alcaeus/mongo-php-adapter/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/alcaeus/mongo-php-adapter/?branch=master)
